@@ -3,3 +3,6 @@ Part 4 - Fashion-MNIST (Solution).ipynb
 pruebas.ipynb
 modelo_entrenado.pth
 modelo_entrenado2.pth
+helper.py
+modelo_entrenado_70.pth
+Part 5 - Inference and Validation (Solution).ipynb
