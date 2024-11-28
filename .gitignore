@@ -9,3 +9,6 @@ Part 5 - Inference and Validation (Solution).ipynb
 modelo_overfitting_70.pth
 modeloFinal1.pth
 modeloFinal2.pth
+modelo_overfitting_40.pth
+__pycache__
+.venv
